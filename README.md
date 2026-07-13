@@ -3,7 +3,7 @@
 Mechanical engineering student specializing in aerospace systems and physics-based 
 simulation. Building ASTRA, a C++ rocket trajectory simulator with RK4 integration, 
 real atmospheric modeling, and physics-grounded fault detection — degradation 
-mechanics over black-box ML. Proficient in C++, Python, MATLAB, and SolidWorks.
+mechanics over black-box ML. Proficient in C++, Python, MATLAB, AutoCAD and SolidWorks.
 
 ### 🌐 Find me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurghatage)
@@ -18,4 +18,4 @@ mechanics over black-box ML. Proficient in C++, Python, MATLAB, and SolidWorks.
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=mayurghatage&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=mayurghatage&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=8B949E&dates=6E7681&border=30363D)
