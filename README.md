@@ -18,4 +18,4 @@ mechanics over black-box ML. Proficient in C++, Python, MATLAB, and SolidWorks.
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurghatage&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mayurghatage&show_icons=true&theme=radical)
